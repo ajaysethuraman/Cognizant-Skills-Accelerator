@@ -7,13 +7,11 @@ This repository contains all assignments and projects completed as part of the *
 - [Overview](#overview)
 - [Course Details](#course-details)
 - [Assignments and Projects](#assignments-and-projects)
-  - [Assignment 1: Title](#assignment-1-title)
-  - [Project 1: Title](#project-1-title)
 - [Technologies Used](#technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [About Me](#about-me)
+
 
 ## Overview
 
@@ -82,8 +80,29 @@ The **Cognizant Skills Accelerator GenAI Pathway Program** is a collection of ri
 - Project: Comprehensive RLHF and Ethical AI Design
 - Capstone Project: Problem Statements as User Stories
 
-## Technologies Used
+## Contributing
 
+Thank you for your interest in contributing to this repository! Since this repository contains all assignments and projects completed as part of the **Cognizant Skills Accelerator GenAI Pathway Program**, contributions are currently not being accepted.
+
+If you'd like to suggest improvements or report issues, feel free to open an issue, and I will review it.
+
+## Technologies Used
+The main technologies used throughout the course are:
 - **Programming Languages**: Python
 - **Libraries/Frameworks**: TensorFlow, PyTorch, Hugging Face
-For more details on the technologies used in this course, please contact me at ajaykrsnaa@gmail.com
+
+For more details on other technologies used in this course, please contact me at ajaykrsnaa@gmail.com.
+
+## License
+
+This repository is currently **not licensed**. All content here is my own work as part of the **Cognizant Skills Accelerator GenAI Pathway Program**. Feel free to use the code for learning purposes but do not distribute or use it for commercial purposes without permission.
+
+## About Me
+
+Hello! I'm **Ajay Sethuraman**, a passionate data science and AI enthusiast with a strong foundation in applied machine learning, cloud technologies, and programming. I have completed a Master's in **Digital Transformation & Innovation, Applied Data Science** from the **University of Ottawa**, and my experience spans over 2.5 years in roles ranging from machine learning development to application support and business analysis.
+
+I have hands-on experience working with cutting-edge technologies such as **Generative AI**, **Cloud Computing**, **Python**, and various AI frameworks including **TensorFlow** and **PyTorch**. Throughout my career, I've worked on enhancing cybersecurity solutions, automating processes, and optimizing data-driven applications, which has enabled me to build a strong problem-solving mindset.
+
+My professional interests include **machine learning**, **AI-driven solutions**, and **data analysis**, and I am always looking for opportunities to innovate and solve complex problems. I actively participate in learning programs to stay updated with the latest trends and expand my skill set in areas like **LLMs**, **deep learning**, and **cloud-based AI solutions**.
+
+Feel free to contact me at **ajaykrsnaa@gmail.com** for collaboration, questions, or opportunities to connect!
